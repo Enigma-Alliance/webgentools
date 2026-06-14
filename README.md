@@ -163,7 +163,3 @@ This repo is intentionally simple:
 - No package manager required.
 - Each tool is self-contained in one HTML file.
 - Shared visual language is repeated across files rather than imported from a framework.
-
-## License
-
-Add a license before publishing or sharing the repository publicly.
